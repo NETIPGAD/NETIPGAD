@@ -1,5 +1,8 @@
 
 ---
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NetroIndonesia&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### About Me:
 Currently, I am studying at SMK in the PPLG (Pengembangan Perangkat Lunak dan Gim) program, focusing on MySQL, C++, and JavaScript. In my leisure time, I enjoy working on projects and sharing them with my community.

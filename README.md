@@ -1,22 +1,18 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NetroIndonesia&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### About Me:
-Currently, I am studying at SMK in the RPL (Rekayasa Perangkat Lunak) program, focusing on MySQL, C++, and JavaScript. In my leisure time, I enjoy working on projects and sharing them with my community.
+Currently, I am studying at SMK in the PPLG (Pengembangan Perangkat Lunak dan Gim) program, focusing on MySQL, C++, and JavaScript. In my leisure time, I enjoy working on projects and sharing them with my community.
 
 ### Social Media: 📡    
 Join me on Telegram.
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/htfgtps)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NandaSMKN9SEMARANG)
 
 ### Working on: 🚀
 
 - Learning [C++]
 - [CodingSMK](https://t.me/codingsmk)
-- [GrowGame Bot Discord](https://discord.com/application-directory/1124685110843801610)
-- Various bots and scripts, with results showcased [here](https://t.me/htfgtps)
 
 ## Languages and Tools
 <div>
